@@ -10188,6 +10188,8 @@ Source: www.kingbright.com</description>
 <part name="C5" library="resistor" deviceset="C-EU" device="C1206" value="22pf"/>
 <part name="C6" library="resistor" deviceset="C-EU" device="C1206" value="22pf"/>
 <part name="FRAME1" library="frames" deviceset="FRAME_A_L" device=""/>
+<part name="VDD" library="pinhead" deviceset="PINHD-1X3" device=""/>
+<part name="VSS" library="pinhead" deviceset="PINHD-1X3" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -10248,64 +10250,74 @@ Source: www.kingbright.com</description>
 <instance part="C6" gate="G$1" x="182.88" y="5.08" rot="R90"/>
 <instance part="FRAME1" gate="G$1" x="-43.18" y="-73.66"/>
 <instance part="FRAME1" gate="G$2" x="129.54" y="-73.66"/>
+<instance part="VDD" gate="A" x="33.02" y="-43.18" rot="R270"/>
+<instance part="VSS" gate="A" x="50.8" y="-43.18" rot="R270"/>
 </instances>
 <busses>
 </busses>
 <nets>
-<net name="N$1" class="0">
+<net name="ADC7" class="0">
 <segment>
 <pinref part="IC1" gate="PORTA_L" pin="PA7"/>
 <pinref part="PIN-ADC" gate="A" pin="1"/>
 <wire x1="43.18" y1="58.42" x2="25.4" y2="58.42" width="0.1524" layer="91"/>
+<label x="33.02" y="58.42" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="ADC6" class="0">
 <segment>
 <pinref part="IC1" gate="PORTA_L" pin="PA6"/>
 <pinref part="PIN-ADC" gate="A" pin="2"/>
 <wire x1="43.18" y1="60.96" x2="25.4" y2="60.96" width="0.1524" layer="91"/>
+<label x="33.02" y="60.96" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="ADC5" class="0">
 <segment>
 <pinref part="IC1" gate="PORTA_L" pin="PA5"/>
 <pinref part="PIN-ADC" gate="A" pin="3"/>
 <wire x1="43.18" y1="63.5" x2="25.4" y2="63.5" width="0.1524" layer="91"/>
+<label x="33.02" y="63.5" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="ADC4" class="0">
 <segment>
 <pinref part="IC1" gate="PORTA_L" pin="PA4"/>
 <pinref part="PIN-ADC" gate="A" pin="4"/>
 <wire x1="43.18" y1="66.04" x2="25.4" y2="66.04" width="0.1524" layer="91"/>
+<label x="33.02" y="66.04" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$5" class="0">
+<net name="ADC3" class="0">
 <segment>
 <pinref part="IC1" gate="PORTA_L" pin="PA3"/>
 <pinref part="PIN-ADC" gate="A" pin="5"/>
 <wire x1="43.18" y1="68.58" x2="25.4" y2="68.58" width="0.1524" layer="91"/>
+<label x="33.02" y="68.58" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$6" class="0">
+<net name="ADC2" class="0">
 <segment>
 <pinref part="IC1" gate="PORTA_L" pin="PA2"/>
 <pinref part="PIN-ADC" gate="A" pin="6"/>
 <wire x1="43.18" y1="71.12" x2="25.4" y2="71.12" width="0.1524" layer="91"/>
+<label x="33.02" y="71.12" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$7" class="0">
+<net name="ADC1" class="0">
 <segment>
 <pinref part="IC1" gate="PORTA_L" pin="PA1"/>
 <pinref part="PIN-ADC" gate="A" pin="7"/>
 <wire x1="43.18" y1="73.66" x2="25.4" y2="73.66" width="0.1524" layer="91"/>
+<label x="33.02" y="73.66" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$8" class="0">
+<net name="ADC0" class="0">
 <segment>
 <pinref part="IC1" gate="PORTA_L" pin="PA0"/>
 <pinref part="PIN-ADC" gate="A" pin="8"/>
 <wire x1="43.18" y1="76.2" x2="25.4" y2="76.2" width="0.1524" layer="91"/>
+<label x="33.02" y="76.2" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="PB0" class="0">
@@ -10698,6 +10710,17 @@ Source: www.kingbright.com</description>
 <wire x1="205.74" y1="10.16" x2="203.2" y2="10.16" width="0.1524" layer="91"/>
 <label x="205.74" y="15.24" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="VDD" gate="A" pin="3"/>
+<wire x1="30.48" y1="-40.64" x2="30.48" y2="-30.48" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="-30.48" x2="33.02" y2="-30.48" width="0.1524" layer="91"/>
+<pinref part="VDD" gate="A" pin="1"/>
+<wire x1="33.02" y1="-30.48" x2="35.56" y2="-30.48" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="-30.48" x2="35.56" y2="-40.64" width="0.1524" layer="91"/>
+<pinref part="VDD" gate="A" pin="2"/>
+<wire x1="33.02" y1="-40.64" x2="33.02" y2="-30.48" width="0.1524" layer="91"/>
+<label x="35.56" y="-30.48" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="VSS" class="0">
 <segment>
@@ -10780,6 +10803,17 @@ Source: www.kingbright.com</description>
 <pinref part="C5" gate="G$1" pin="1"/>
 <wire x1="180.34" y1="17.78" x2="175.26" y2="17.78" width="0.1524" layer="91"/>
 <label x="167.64" y="12.7" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="VSS" gate="A" pin="3"/>
+<wire x1="48.26" y1="-40.64" x2="48.26" y2="-30.48" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="-30.48" x2="50.8" y2="-30.48" width="0.1524" layer="91"/>
+<pinref part="VSS" gate="A" pin="1"/>
+<wire x1="50.8" y1="-30.48" x2="53.34" y2="-30.48" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="-30.48" x2="53.34" y2="-40.64" width="0.1524" layer="91"/>
+<pinref part="VSS" gate="A" pin="2"/>
+<wire x1="50.8" y1="-40.64" x2="50.8" y2="-30.48" width="0.1524" layer="91"/>
+<label x="53.34" y="-30.48" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="VCC" class="0">
