@@ -1,0 +1,30 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}OpenSource}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Pengenalan}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Lisensi}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}Komersial}{6}{section.1.3}
+\contentsline {section}{\numberline {1.4}Bajakan}{6}{section.1.4}
+\contentsline {chapter}{\numberline {2}LinuxMintKDE}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Linux}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}KDE}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Debian/Ubuntu}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}LinuxMint}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Instalasi OS}{7}{section.2.5}
+\contentsline {section}{\numberline {2.6}Dolphin}{7}{section.2.6}
+\contentsline {section}{\numberline {2.7}Konsole}{7}{section.2.7}
+\contentsline {section}{\numberline {2.8}System Settings}{7}{section.2.8}
+\contentsline {section}{\numberline {2.9}Firefox}{7}{section.2.9}
+\contentsline {section}{\numberline {2.10}Kate}{7}{section.2.10}
+\contentsline {section}{\numberline {2.11}LibreOffice}{7}{section.2.11}
+\contentsline {section}{\numberline {2.12}Instalasi Paket}{7}{section.2.12}
+\contentsline {section}{\numberline {2.13}GIMP}{7}{section.2.13}
+\contentsline {section}{\numberline {2.14}Inkscape}{7}{section.2.14}
+\contentsline {section}{\numberline {2.15}EAGLE}{7}{section.2.15}
+\contentsline {chapter}{\numberline {3}Qt}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}GCC}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Qt}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Qt Example}{9}{section.3.3}
+\contentsline {section}{\numberline {3.4}Gtk}{9}{section.3.4}
+\contentsline {section}{\numberline {3.5}Python}{9}{section.3.5}
+\contentsline {section}{\numberline {3.6}Octave}{9}{section.3.6}
+\contentsfinish 
