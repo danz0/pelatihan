@@ -7,19 +7,20 @@
 \contentsline {chapter}{\numberline {2}LinuxMintKDE}{7}{chapter.2}
 \contentsline {section}{\numberline {2.1}Linux}{7}{section.2.1}
 \contentsline {section}{\numberline {2.2}KDE}{7}{section.2.2}
-\contentsline {section}{\numberline {2.3}Debian/Ubuntu}{7}{section.2.3}
-\contentsline {section}{\numberline {2.4}LinuxMint}{7}{section.2.4}
-\contentsline {section}{\numberline {2.5}Instalasi OS}{7}{section.2.5}
-\contentsline {section}{\numberline {2.6}Dolphin}{7}{section.2.6}
-\contentsline {section}{\numberline {2.7}Konsole}{7}{section.2.7}
-\contentsline {section}{\numberline {2.8}System Settings}{7}{section.2.8}
-\contentsline {section}{\numberline {2.9}Firefox}{7}{section.2.9}
-\contentsline {section}{\numberline {2.10}Kate}{7}{section.2.10}
-\contentsline {section}{\numberline {2.11}LibreOffice}{7}{section.2.11}
-\contentsline {section}{\numberline {2.12}Instalasi Paket}{7}{section.2.12}
-\contentsline {section}{\numberline {2.13}GIMP}{7}{section.2.13}
-\contentsline {section}{\numberline {2.14}Inkscape}{7}{section.2.14}
-\contentsline {section}{\numberline {2.15}EAGLE}{7}{section.2.15}
+\contentsline {section}{\numberline {2.3}UNIX}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Debian/Ubuntu}{8}{section.2.4}
+\contentsline {section}{\numberline {2.5}LinuxMint}{8}{section.2.5}
+\contentsline {section}{\numberline {2.6}Instalasi OS}{8}{section.2.6}
+\contentsline {section}{\numberline {2.7}Dolphin}{8}{section.2.7}
+\contentsline {section}{\numberline {2.8}Konsole}{8}{section.2.8}
+\contentsline {section}{\numberline {2.9}System Settings}{8}{section.2.9}
+\contentsline {section}{\numberline {2.10}Firefox}{8}{section.2.10}
+\contentsline {section}{\numberline {2.11}Kate}{8}{section.2.11}
+\contentsline {section}{\numberline {2.12}LibreOffice}{8}{section.2.12}
+\contentsline {section}{\numberline {2.13}Instalasi Paket}{8}{section.2.13}
+\contentsline {section}{\numberline {2.14}GIMP}{8}{section.2.14}
+\contentsline {section}{\numberline {2.15}Inkscape}{8}{section.2.15}
+\contentsline {section}{\numberline {2.16}EAGLE}{8}{section.2.16}
 \contentsline {chapter}{\numberline {3}Qt}{9}{chapter.3}
 \contentsline {section}{\numberline {3.1}GCC}{9}{section.3.1}
 \contentsline {section}{\numberline {3.2}Qt}{9}{section.3.2}
