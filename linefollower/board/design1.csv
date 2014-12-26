@@ -1,0 +1,21 @@
+Qty,Value,Kode,Komponen,Harga,Total,,,All
+2,,,Push button 4p,1500,3000,,,16
+11,,LED0202004,Led 1206,1000,11000,,,88
+6,22pf,C010204009,Cap 1206 22pf,75,450,,,48
+1,32khz,XT01009,xtal 32khz,2000,2000,,,8
+1,8mhz,XT01003,xtal 8mhz,2000,2000,,,8
+11,330ohm,R010204014,Resistor ¼ watt 330 1206,75,825,,,88
+2,4k7,R010204025,Resistor ¼ watt 4k7 1206,75,150,,,16
+1,FT232RL,,FTDI,50000,50000,,,8
+1,MINI-USB-32005-201,CONUSB005,mini USB SMD,2500,2500,,,8
+1,STM32F10XCXT6,ICMC020102004,STM32F100C4T6B,30000,30000,,,8
+1,,,Header male,3000,3000,,,8
+5,,,Jumper pin,200,1000,,,40
+,,,,,,,,
+,Total,,,,105925,,,
+,Pembulatan,,,,110000,,,
+,Untuk berapa paket,8,,,880000,,,
+,Ongkos,,,,100000,,,
+,Minta Yulia,,,,1090000,,,
+,,,,,,,,
+,,,,,800000,80000,,
