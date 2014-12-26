@@ -1,0 +1,6 @@
+avr-libc avrdude gcc-avr 
+gcc-arm-none-eabi libnewlib-arm-none-eabi libnewlib-dev 
+libftdi-dev libusb-1.0-0-dev 
+automake cmake-qt-gui dh-autoreconf pkg-config 
+libopencv-dev libqt4-dev libqt5serialport5-dev libqt5svg5-dev qt4-designer qtbase5-dev qtcreator qtdeclarative5-qtquick2-plugin qttools5-dev
+eagle unrar 
