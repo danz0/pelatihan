@@ -1,0 +1,2 @@
+sudo ln -svf /lib/i386-linux-gnu/libudev.so.1 /usr/lib/libudev.so 
+sudo ln -svf /lib/x86_64-linux-gnu/libudev.so.1 /usr/lib/libudev.so 
